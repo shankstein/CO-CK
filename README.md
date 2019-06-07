@@ -1,5 +1,5 @@
 # CO-CK
-Continuous Orchestration / Continuous Kubernetes
+Continuous Orchestration / Continuous Kubernetes (COCK)
 
 It's a web application that will ease the container orchestration and deployment into kubernetes & hide the complexity of kubernetes.
 
